@@ -1,5 +1,5 @@
 function readme()
-% Wind_tunnel automated is the latest version
+% Wind_tunnel_automated is the latest version
 %% Wind_tunnel_automated.m
 %  @Author: Load cell data collection: Roshan
 %           Servo serial control: Fintan
