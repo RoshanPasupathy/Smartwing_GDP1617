@@ -45,8 +45,7 @@ function readme()
 %                            - Waits for data to be available in the Serial buffer
 %                              before reading
 %  4. serial_close.m: Closes all open serial objects
-%  Added a new line in develop branch
-% error line master
+%
 clc
 help readme
 end
