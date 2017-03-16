@@ -46,7 +46,7 @@ function readme()
 %                              before reading
 %  4. serial_close.m: Closes all open serial objects
 % 
-% 
+%  old stuff
 clc
 help readme
 end
